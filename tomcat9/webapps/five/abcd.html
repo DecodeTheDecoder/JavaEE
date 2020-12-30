@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fifth Application</title>
+<script>
+function validate(frm){
+var nn= frm.nm.value.trim();
+if(nn.length==0)
+{
+alert("Name Required");
+return false;
+}
+return true;
+}
+</script>
+</head>
+<body>
+<form action='/five/aaa' onsubmit='return validate(this)'>
+Name <input type='text' name='nm' id='nm'></input><br>
+<button type='submit'>Next</button>
+</form>
+</body>
+</html>

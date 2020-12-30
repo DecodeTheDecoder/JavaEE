@@ -1,0 +1,11 @@
+pw.println("<html>");
+pw.println("<head>");
+pw.println("<script>");
+pw.println("var a= \"God  is great\";");
+pw.println("var b =\"ujjain\";");
+pw.println("</script>");
+pw.println("</head>");
+pw.println("<body>");
+pw.println("<h1>Cool things</h1>");
+pw.println("</body>");
+pw.println("</html>");

@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [20/Dec/2020:15:30:30 +0100] "GET /styleone/ HTTP/1.1" 200 1378
+0:0:0:0:0:0:0:1 - - [20/Dec/2020:15:30:30 +0100] "GET /styleone/images/logo.png HTTP/1.1" 200 270
+0:0:0:0:0:0:0:1 - - [20/Dec/2020:15:30:34 +0100] "GET /styleone/EmployeesTemplate.html HTTP/1.1" 200 5741
+0:0:0:0:0:0:0:1 - - [20/Dec/2020:15:30:48 +0100] "GET /styleone/AddEmployeeTemplate.html HTTP/1.1" 200 5453
+0:0:0:0:0:0:0:1 - - [20/Dec/2020:20:33:12 +0100] "GET /styleone/AddEmployeeTemplate.html HTTP/1.1" 200 5905
+0:0:0:0:0:0:0:1 - - [20/Dec/2020:20:33:12 +0100] "GET /styleone/images/logo.png HTTP/1.1" 200 270
+0:0:0:0:0:0:0:1 - - [20/Dec/2020:20:33:14 +0100] "GET /favicon.ico HTTP/1.1" 200 21630

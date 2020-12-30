@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:21:42 +0100] "GET /styleone/ HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:21:44 +0100] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:23:04 +0100] "GET /styleone/ HTTP/1.1" 200 1341
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:23:05 +0100] "GET /styleone/images/logo.png HTTP/1.1" 200 270
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:23:05 +0100] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:23:07 +0100] "GET /styleone/designationsView HTTP/1.1" 500 3424
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:25:13 +0100] "GET /styleone/designationsView HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:25:56 +0100] "GET /styleone/designationsView HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:30:54 +0100] "GET /styleone/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:30:55 +0100] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:30:57 +0100] "GET /styleone/designationsView HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:32:58 +0100] "GET /styleone/designationsView HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:14:57:39 +0100] "GET /styleone/designationsView HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2020:15:04:49 +0100] "GET /styleone/designationsView HTTP/1.1" 200 2265
